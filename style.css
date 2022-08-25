@@ -46,7 +46,6 @@ h2 {
 .dream-banner {
     background-image: url(images/dream-bg.png);
     background-position: right;
-
     background-repeat: no-repeat;
 }
 
@@ -65,7 +64,20 @@ h2 {
     background-repeat: no-repeat;
 }
 
+
+.single-experience {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+}
+
+#left-orange {
+    border-left: 7px solid tomato;
+}
+
+#left-blue {
+    border-left: 7px solid blue;
+}
+
 footer {
-    padding-top: 200px;
     text-align: center;
 }
